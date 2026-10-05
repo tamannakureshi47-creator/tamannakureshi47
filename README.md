@@ -4,9 +4,11 @@
 
 ### 💻 Full Stack Developer | Web Development | AI & Automation
 
-<a href="https://github.com/tamannakureshi47-creator">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Building+Clean+%26+Practical+Web+Solutions;Exploring+AI+%26+Workflow+Automation;Always+Learning+%7C+Always+Building" />
-</a>
+<p>
+  Building clean, responsive and practical web solutions.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Web+Development+Enthusiast;Exploring+AI+%26+Automation;Always+Learning+%7C+Always+Building" />
 
 <br><br>
 
@@ -18,18 +20,18 @@
 
 ## 👩‍💻 About Me
 
-I’m a passionate **Full Stack Developer** who enjoys building clean, responsive, and user-friendly web applications.
+I’m a passionate **Full Stack Developer** who enjoys creating clean, responsive, and user-friendly web applications.
 
-I love transforming ideas into practical digital solutions and continuously improving my skills through **hands-on projects, experimentation, and real-world development.**
+I enjoy turning ideas into practical digital solutions and continuously improving my skills through **learning, hands-on practice, and real-world projects.**
 
-- 💻 Passionate about Web Development
-- ⚛️ Building modern interfaces with React & Next.js
-- 🎨 Creating responsive and user-friendly designs
+- 💻 Interested in Web Development
+- ⚛️ Building modern applications with React & Next.js
+- 🎨 Creating responsive and user-friendly interfaces
 - 🌐 Exploring modern web technologies
 - 📝 Interested in WordPress Development
 - 🤖 Exploring AI & Workflow Automation
 - 🔗 Learning API Integration
-- 📚 Continuously improving through practical projects
+- 📚 Continuously improving through practical development
 - 🚀 Focused on growing as a Full Stack Developer
 
 ---
@@ -39,32 +41,32 @@ I love transforming ideas into practical digital solutions and continuously impr
 ### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </p>
 
-### ⚛️ React Ecosystem
+### ⚛️ React & Modern Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
 ### 🌐 CMS & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=wordpress,mysql" />
+  <img src="https://skillicons.dev/icons?i=wordpress,mysql" />
 </p>
 
-### 🔧 Tools & Workflow
+### 🔧 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,n8n" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,n8n" />
 </p>
 
 ---
 
 ## 🤖 AI & Automation
 
-I’m exploring **AI-powered solutions and workflow automation** to simplify repetitive tasks, connect different applications, and improve productivity.
+I’m exploring **AI-powered solutions and workflow automation** to simplify repetitive tasks, connect applications, and improve productivity.
 
 - 🤖 AI-powered workflows
 - 🔄 Workflow Automation
@@ -78,43 +80,16 @@ I’m exploring **AI-powered solutions and workflow automation** to simplify rep
 
 ## 🚀 What I Build
 
-| 💻 Development | 🌐 Web | 🤖 Automation |
+<div align="center">
+
+| 💻 Development | 🌐 Web Development | 🤖 Automation |
 |---|---|---|
 | React Applications | Responsive Websites | AI Workflows |
 | Next.js Applications | Modern UI | API Automation |
 | Full Stack Projects | WordPress Websites | Email Automation |
-| Database Applications | User-Friendly Experiences | Chatbot Workflows |
+| Database Applications | User-Friendly Interfaces | Chatbot Workflows |
 
----
-
-## 🌟 Featured Projects
-
-### 🏨 Comfort Casa Paradise
-
-**Resort Management & Restaurant Website**
-
-A complete web-based resort management project with room booking, restaurant table booking, user authentication, admin management, services, comments, and booking workflows.
-
-**Focus:**  
-`Web Development` `Booking System` `Database` `Admin Dashboard`
-
----
-
-### 📸 Image Search Application
-
-A modern image search application built with React and an image API.
-
-**Focus:**  
-`React` `API Integration` `JavaScript` `Responsive UI`
-
----
-
-### ⚛️ React Practice Projects
-
-A collection of React projects created while learning and practicing components, props, state, events, forms, routing, APIs, and modern UI.
-
-**Focus:**  
-`React` `JavaScript` `Bootstrap` `React Router`
+</div>
 
 ---
 
@@ -122,8 +97,8 @@ A collection of React projects created while learning and practicing components,
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-Learning-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full%20Stack-Development-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Automation-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/API-Integration-0EA5E9?style=for-the-badge"/>
@@ -136,13 +111,13 @@ A collection of React projects created while learning and practicing components,
 
 ### Think → Design → Build → Test → Improve
 
-I believe that becoming a better developer comes from consistent learning, hands-on practice, solving real problems, and building projects that are actually useful.
+I believe that becoming a better developer comes from consistent learning, hands-on practice, solving real problems, and continuously improving.
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to start and grow my career as a **Full Stack Developer**, gain strong practical experience, work on meaningful projects, and continue learning modern technologies to build reliable and user-friendly web solutions.
+My goal is to start and grow my career as a **Full Stack Developer**, gain practical experience, work on meaningful projects, and build reliable, scalable, and user-friendly web solutions.
 
 ### 🚀 Learn → Practice → Build → Improve → Grow
 
@@ -163,16 +138,6 @@ My goal is to start and grow my career as a **Full Stack Developer**, gain stron
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamannakureshi47-creator&theme=tokyonight&hide_border=true&border_radius=12" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamannakureshi47-creator&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
