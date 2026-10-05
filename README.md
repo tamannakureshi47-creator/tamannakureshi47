@@ -115,11 +115,11 @@ My goal is to start my career as a **Full Stack Developer**, gain strong practic
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamannakureshi47&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamannakureshi47-creator&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamannakureshi47&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamannakureshi47-creator&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
