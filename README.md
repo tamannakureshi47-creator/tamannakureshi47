@@ -1,66 +1,70 @@
+<div align="center">
+
 # 👋 Hi, I'm Tamanna Kureshi
 
 ### 💻 Full Stack Developer | Web Development | AI & Automation
 
-I’m a passionate **Full Stack Developer** who enjoys building clean, responsive, and user-friendly web applications. I love turning ideas into practical digital solutions and continuously improving my skills through hands-on development and real-world projects.
+<a href="https://github.com/tamannakureshi47-creator">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Building+Clean+%26+Practical+Web+Solutions;Exploring+AI+%26+Workflow+Automation;Always+Learning+%7C+Always+Building" />
+</a>
 
-> 🚀 **Learn • Build • Improve • Grow**
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=tamannakureshi47-creator&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💻 Passionate about **Web Development**
-- ⚛️ Building modern interfaces with **React & Next.js**
+I’m a passionate **Full Stack Developer** who enjoys building clean, responsive, and user-friendly web applications.
+
+I love transforming ideas into practical digital solutions and continuously improving my skills through **hands-on projects, experimentation, and real-world development.**
+
+- 💻 Passionate about Web Development
+- ⚛️ Building modern interfaces with React & Next.js
 - 🎨 Creating responsive and user-friendly designs
-- 🔄 Exploring **AI & Workflow Automation**
-- 🌐 Interested in **WordPress Development**
-- 🧩 Enjoy solving problems through practical development
-- 📚 Always learning new tools and improving my skills
-- 🚀 Focused on building meaningful and useful projects
+- 🌐 Exploring modern web technologies
+- 📝 Interested in WordPress Development
+- 🤖 Exploring AI & Workflow Automation
+- 🔗 Learning API Integration
+- 📚 Continuously improving through practical projects
+- 🚀 Focused on growing as a Full Stack Developer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend & Web Development
+### 🌐 Frontend Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </p>
 
 ### ⚛️ React Ecosystem
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
-### 🌐 CMS & Development
+### 🌐 CMS & Database
 
 <p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=wordpress,mysql" />
 </p>
 
 ### 🔧 Tools & Workflow
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,n8n" />
 </p>
 
 ---
 
 ## 🤖 AI & Automation
 
-I’m exploring **AI-powered solutions and workflow automation** to build smarter and more efficient digital experiences.
+I’m exploring **AI-powered solutions and workflow automation** to simplify repetitive tasks, connect different applications, and improve productivity.
 
 - 🤖 AI-powered workflows
 - 🔄 Workflow Automation
@@ -68,79 +72,136 @@ I’m exploring **AI-powered solutions and workflow automation** to build smarte
 - 💬 Chatbot Automation
 - 📧 Email Automation
 - ⚡ Productivity Automation
+- 🧩 AI-assisted Development
 
 ---
 
 ## 🚀 What I Build
 
-```text
-🌐 Responsive Websites
-⚛️ React Applications
-▲ Next.js Applications
-🎨 Modern UI Experiences
-📝 WordPress Websites
-🔗 API-Based Applications
-🤖 AI & Automation Workflows
-🗄️ Database-Driven Applications
-```
+| 💻 Development | 🌐 Web | 🤖 Automation |
+|---|---|---|
+| React Applications | Responsive Websites | AI Workflows |
+| Next.js Applications | Modern UI | API Automation |
+| Full Stack Projects | WordPress Websites | Email Automation |
+| Database Applications | User-Friendly Experiences | Chatbot Workflows |
+
+---
+
+## 🌟 Featured Projects
+
+### 🏨 Comfort Casa Paradise
+
+**Resort Management & Restaurant Website**
+
+A complete web-based resort management project with room booking, restaurant table booking, user authentication, admin management, services, comments, and booking workflows.
+
+**Focus:**  
+`Web Development` `Booking System` `Database` `Admin Dashboard`
+
+---
+
+### 📸 Image Search Application
+
+A modern image search application built with React and an image API.
+
+**Focus:**  
+`React` `API Integration` `JavaScript` `Responsive UI`
+
+---
+
+### ⚛️ React Practice Projects
+
+A collection of React projects created while learning and practicing components, props, state, events, forms, routing, APIs, and modern UI.
+
+**Focus:**  
+`React` `JavaScript` `Bootstrap` `React Router`
 
 ---
 
 ## 📚 Currently Learning
 
-- ⚛️ Advanced React
-- ▲ Next.js
-- 🌐 Full Stack Development
-- 🎨 Modern UI & Responsive Design
-- 🤖 AI & Workflow Automation
-- 🔗 API Integration
-- 🧩 Building Real-World Applications
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-Learning-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Development-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Automation-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-Integration-0EA5E9?style=for-the-badge"/>
+
+</p>
 
 ---
 
 ## 💡 My Development Approach
 
-**Think → Design → Build → Test → Improve**
+### Think → Design → Build → Test → Improve
 
-I believe that the best way to grow as a developer is by building projects, solving problems, learning from mistakes, and continuously improving.
+I believe that becoming a better developer comes from consistent learning, hands-on practice, solving real problems, and building projects that are actually useful.
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to start my career as a **Full Stack Developer**, gain strong practical experience, and contribute to building reliable, scalable, and user-friendly web solutions.
+My goal is to start and grow my career as a **Full Stack Developer**, gain strong practical experience, work on meaningful projects, and continue learning modern technologies to build reliable and user-friendly web solutions.
+
+### 🚀 Learn → Practice → Build → Improve → Grow
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamannakureshi47-creator&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamannakureshi47-creator&theme=tokyonight&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tamannakureshi47-creator&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamannakureshi47-creator&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tamannakureshi47-creator&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamannakureshi47-creator&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<p>
-  🔗 <b>LinkedIn:</b>
-  <a href="https://www.linkedin.com/in/tamanna-kureshi-58a90a303/">
-    linkedin.com/in/tamanna-kureshi-58a90a303
-  </a>
-</p>
+<div align="center">
 
-<p>
-  📧 <b>Email:</b> tamannakurehi28@gmail.com
-</p>
+<a href="https://www.linkedin.com/in/tamanna-kureshi-58a90a303/">
+<img src="https://img.shields.io/badge/LinkedIn-Tamanna%20Kureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:tamannakurehi28@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tamannakureshi47-creator">
+<img src="https://img.shields.io/badge/GitHub-tamannakureshi47--creator-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile!</h3>
+<div align="center">
 
-<p align="center">
-  💻 Build with purpose • 🚀 Learn continuously • 🌱 Grow consistently
-</p>
+### ✨ Thanks for visiting my profile!
+
+**💻 Build with purpose • 🚀 Learn continuously • 🌱 Grow consistently**
+
+</div>
